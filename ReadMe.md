@@ -9,7 +9,7 @@
 
 #### 用法（以Taro示意）
 
-1. 将tailwind.css添加到项目中，在app.tsx 或 app.jsx中 ```import "../tailwind.css";```
+1. 将tailwind.css添加到项目中，在app.tsx 或 app.jsx中 ```import "./tailwind.css";```
 2. 在vscode中安装插件```IntelliSense for CSS class names in HTML```即可实现样式名称的补全；
 
 
